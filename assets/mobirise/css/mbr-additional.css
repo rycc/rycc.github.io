@@ -165,8 +165,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #be1a1a !important;
+  border-color: #be1a1a !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -174,14 +174,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #7b1111 !important;
+  border-color: #7b1111 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #7b1111 !important;
+  border-color: #7b1111 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -329,22 +329,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #cc0033;
-  color: #cc0033;
+  border-color: #640e0e;
+  color: #640e0e;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #ff3366;
-  border-color: #ff3366;
+  background-color: #be1a1a;
+  border-color: #be1a1a;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #be1a1a !important;
+  border-color: #be1a1a !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -464,7 +464,7 @@ body {
   color: #149dcc !important;
 }
 .text-secondary {
-  color: #ff3366 !important;
+  color: #be1a1a !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -490,7 +490,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #cc0033 !important;
+  color: #640e0e !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -4718,10 +4718,13 @@ body {
 .cid-qHStq5Scc2 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background: linear-gradient(45deg, #dbd4b8, #7f1933);
+  background: linear-gradient(45deg, #25aab2, #be1a1a);
 }
 .cid-qHStq5Scc2 .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-qHStq5Scc2 H3 {
+  color: #ffffff;
 }
 .cid-qHSxPwnmH8 {
   padding-top: 30px;
@@ -5197,6 +5200,8 @@ body {
   background-color: #2e2e2e;
 }
 .cid-qMwF8dwH6z {
+  padding-top: 120px;
+  padding-bottom: 120px;
   background: linear-gradient(45deg, #cc2952, #073b4c);
 }
 @media (min-width: 992px) {
