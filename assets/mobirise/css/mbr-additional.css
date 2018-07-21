@@ -5165,7 +5165,8 @@ body {
 .cid-qYjkjGlV7L {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-color: #149dcc;
+  background: linear-gradient(45deg, #149dcc, #000000);
 }
 @media (min-width: 992px) {
   .cid-qYjkjGlV7L .mbr-figure {
