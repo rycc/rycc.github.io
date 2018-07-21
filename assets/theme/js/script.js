@@ -1,3 +1,4 @@
+!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobiri.se">Mobirise</a> Mobirise v4.7.7';document.body.insertBefore(a,document.body.childNodes[0])}}();
 (function($) {
 
     var isBuilder = $('html').hasClass('is-builder');
@@ -1002,8 +1003,3 @@
         }
     }
 })(jQuery);
-<<<<<<< HEAD
-!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobirise.me">Mobirise</a> Mobirise v4.7.1';document.body.insertBefore(a,document.body.childNodes[0])}}();
-=======
-!function(){try{document.getElementsByClassName("engine")[0].getElementsByTagName("a")[0].removeAttribute("rel")}catch(b){}if(!document.getElementById("top-1")){var a=document.createElement("section");a.id="top-1";a.className="engine";a.innerHTML='<a href="https://mobirise.me">Mobirise</a> Mobirise v4.6.6';document.body.insertBefore(a,document.body.childNodes[0])}}();
->>>>>>> 403787c5c0a7ba1a96b278670fa7b81ed8f494d1
