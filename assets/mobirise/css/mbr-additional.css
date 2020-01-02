@@ -2778,10 +2778,48 @@ section.lazy-placeholder:after {
 .cid-r8ApfBVtAp H2 {
   color: #ffffff;
 }
+.cid-rMpqRLvpeO {
+  padding-top: 105px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/bundlestorm-seamless0013-2000x4453.jpg");
+}
+.cid-rMpqRLvpeO .testimonials-container {
+  margin: 0 auto;
+}
+.cid-rMpqRLvpeO .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+}
+.cid-rMpqRLvpeO .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-rMpqRLvpeO .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-rMpqRLvpeO .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-rMpqRLvpeO .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rMpqRLvpeO .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+}
+@media (max-width: 260px) {
+  .cid-rMpqRLvpeO .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
 .cid-rBYagsDleg {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #5b686b;
+  background-color: #0e596b;
 }
 @media (min-width: 992px) {
   .cid-rBYagsDleg .mbr-figure {
@@ -2799,7 +2837,7 @@ section.lazy-placeholder:after {
 .cid-rBYaVmLtMm {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #efefef;
+  background-color: #aed0db;
 }
 .cid-rBYaVmLtMm .mbr-text,
 .cid-rBYaVmLtMm blockquote {
@@ -2808,7 +2846,7 @@ section.lazy-placeholder:after {
 .cid-rBYczfGo5y {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #efefef;
+  background-color: #d6daeb;
 }
 .cid-rBYczfGo5y .mbr-text,
 .cid-rBYczfGo5y blockquote {
@@ -2820,7 +2858,7 @@ section.lazy-placeholder:after {
 .cid-rBYdAqeiBZ {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #efefef;
+  background-color: #cbe5eb;
 }
 .cid-rBYdAqeiBZ .mbr-text,
 .cid-rBYdAqeiBZ blockquote {
