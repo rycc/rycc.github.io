@@ -688,7 +688,8 @@ blockquote {
 .lazy-bg {
   background-image: none !important;
 }
-.lazy-placeholder:not(section) {
+.lazy-placeholder:not(section),
+.lazy-none {
   display: block;
   position: relative;
   padding-bottom: 56.25%;
@@ -2819,6 +2820,44 @@ section.lazy-placeholder:after {
 .cid-r8ApfBVtAp H2 {
   color: #ffffff;
 }
+.cid-rVD9JhAbKO {
+  padding-top: 105px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/bundlestorm-seamless0013-2000x4453.jpg");
+}
+.cid-rVD9JhAbKO .testimonials-container {
+  margin: 0 auto;
+}
+.cid-rVD9JhAbKO .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+}
+.cid-rVD9JhAbKO .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-rVD9JhAbKO .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-rVD9JhAbKO .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-rVD9JhAbKO .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rVD9JhAbKO .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+}
+@media (max-width: 260px) {
+  .cid-rVD9JhAbKO .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
 .cid-rMpqRLvpeO {
   padding-top: 105px;
   padding-bottom: 60px;
@@ -2878,7 +2917,7 @@ section.lazy-placeholder:after {
 .cid-rBYaVmLtMm {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #d6daeb;
 }
 .cid-rBYaVmLtMm .mbr-text,
 .cid-rBYaVmLtMm blockquote {
@@ -2887,7 +2926,7 @@ section.lazy-placeholder:after {
 .cid-rBYczfGo5y {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #d6daeb;
 }
 .cid-rBYczfGo5y .mbr-text,
 .cid-rBYczfGo5y blockquote {
@@ -2899,7 +2938,7 @@ section.lazy-placeholder:after {
 .cid-rBYdAqeiBZ {
   padding-top: 15px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #d6daeb;
 }
 .cid-rBYdAqeiBZ .mbr-text,
 .cid-rBYdAqeiBZ blockquote {
@@ -3328,6 +3367,44 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
+}
+.cid-rVDcT7RVLM {
+  padding-top: 105px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/bundlestorm-seamless0013-2000x4453.jpg");
+}
+.cid-rVDcT7RVLM .testimonials-container {
+  margin: 0 auto;
+}
+.cid-rVDcT7RVLM .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+}
+.cid-rVDcT7RVLM .testimonials-container .testimonials-item .user {
+  background: #ffffff;
+}
+.cid-rVDcT7RVLM .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-rVDcT7RVLM .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-rVDcT7RVLM .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rVDcT7RVLM .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+}
+@media (max-width: 260px) {
+  .cid-rVDcT7RVLM .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
 }
 .cid-qHYvkeiog5 .navbar {
   background: #ffffff;
