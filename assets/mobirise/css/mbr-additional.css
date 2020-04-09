@@ -3363,11 +3363,6 @@ section.lazy-placeholder:after {
 .cid-qHYv6Zcy6f .dropdown-item:hover {
   color: #25aab2 !important;
 }
-.cid-qHPjo2nhkA {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
 .cid-rVDcT7RVLM {
   padding-top: 105px;
   padding-bottom: 60px;
@@ -3405,6 +3400,11 @@ section.lazy-placeholder:after {
     width: 100% !important;
     height: auto !important;
   }
+}
+.cid-qHPjo2nhkA {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
 .cid-qHYvkeiog5 .navbar {
   background: #ffffff;
